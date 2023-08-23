@@ -1,1 +1,1 @@
-This is for the directory
+This gives the detailed alases and how it works
