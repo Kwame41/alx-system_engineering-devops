@@ -1,1 +1,1 @@
-summary of any action
+Summary for any taken action.
