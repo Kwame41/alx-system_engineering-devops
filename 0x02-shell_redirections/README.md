@@ -1,1 +1,1 @@
-Summary for any taken action.
+Summary for any all entire tasks descriptions.
